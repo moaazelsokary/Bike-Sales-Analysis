@@ -42,9 +42,7 @@ Microsoft Excel
 * Added a column named 'Age Bracket', by using Nested IF condition
 
 ## Insights
-1. Geographic Analysis:
-    * North America had the highest number of bike purchases compared to Pacific and Europe.
-    * However, a significant number of customers did not purchase bikes.
+
 2. Commute Distance Analysis:
     * Customers who had to commute 0-5 miles were more likely to purchase bikes.
     * There was a decline in the purchase of bikes for customers over 10 miles of commute distance.
@@ -54,12 +52,7 @@ Microsoft Excel
     * Female customers in clerical and skilled manual occupations were more likely to purchase bikes than male customers.
 4. Occupation Analysis:
     * Customers with an occupation as manual workers and who were older (56 and above) did not purchase bikes.
-5. Car Ownership Analysis:
-    * Customers with no cars in Europe had a higher number of bike purchases compared to North America and the Pacific.
-    * Customers in the middle age range with two cars were less likely to purchase bikes.
-    * Customers with four cars only purchased bikes when they had to commute a distance of more than 2 miles. Otherwise, the majority did not 
-      opt to buy bikes.
-      
+
 ## Recommendations
 
 #### Target Middle-aged Customers:
@@ -68,8 +61,7 @@ Microsoft Excel
 * As customers who had to commute 0-5 miles were more likely to purchase bikes, the company could offer discounts on bikes for customers who have a short commute distance. This could attract more customers who are looking for a cost-effective mode of transportation.
 #### Focus on Female Customers:
 * Since female customers in clerical and skilled manual occupations were more likely to purchase bikes than male customers, the company could create marketing campaigns that target female customers. This could include highlighting bikes that are designed specifically for women, promoting the health and wellness benefits of cycling, and showcasing female cyclists in marketing materials.
-#### Improve Marketing Strategies in Regions with Low Sales:
-* In regions with low sales, the company could also consider partnering with local bike shops or sponsoring cycling events to increase brand awareness and drive sales.
+
 
 
 ## Future Scope
