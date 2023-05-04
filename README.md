@@ -4,7 +4,7 @@
 A bike selling company wanted to find what all are the key factors that influence the bike sales and the company wanted to tailor 
 their marketing strategies based on that.
 
-![Bike Sales Dashboard]()
+![Bike Sales Dashboard](https://github.com/moaazelsokary/Bike-Sales-Analysis/blob/main/Screenshot_1.png)
 
 
 ## About Data:
